@@ -56,6 +56,9 @@
 
 
 
+
+
+
 <!DOCTYPE html>
 
 <html>
@@ -80,6 +83,10 @@
 </body>
 
 </html>
+
+
+
+
 
 
 
@@ -136,46 +143,6 @@
 
 
 
-<!DOCTYPE html>
-
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>Des licornes aperçues en train de danser dans les rues de Paris!!</title> 
-		<link rel="stylesheet" href="style.css">
-	</head>
-
-	<body>
-
-		<div id="site">
-
-		<img src="Screenshot 2023-05-06 at 18.34.17.png">
-
-        <h2>Les médias s'enflamment ! </h2>
-
-         <ul>
-			
-			<li>  Et oui, toute la population s'agite en apprenant la surprenante nouvelle<br>
-
-			<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYbBIqJIpA-X92E1wCydtQWUtYS6dK9M32VpM3jmdnfsJonjIB3fxdhrPtQDy93UCF0rU&usqp=CAU">
-
-             <br> <img src="Screenshot 2023-05-06 at 17.30.50.png"></li>
-
-             <p>Les vidéos de ces licornes sont rapidement devenues virales sur les réseaux sociaux, suscitant l'enthousiasme et la fascination de millions de personnes dans le monde entier. Des spéculations ont commencé à circuler sur l'origine des licornes, certains se demandant s'il s'agissait d'une manifestation surnaturelle ou d'une expérience de réalité augmentée.</p>
-
-             <p>Tous les influenceurs mettent en place de nouvelles théories, plus fascinantes les unes que les autres, pour tenter d'expliquer ces apparitions fantastiques. De nouveaux hashtags sont alors lancés comme le #balancetalicorne ou le #jepeuxpasjailicorne très utilisés sur la plateforme chinoise Tiktok. </p><br>
-
-             <img src="Screenshot 2023-05-06 at 19.58.05.png">
-
-		</ul>
-
-</body>
-
-</html>
-
-
-
-
 
 
 
@@ -215,70 +182,6 @@
 
 
 
-
-
-
-
-
-
-<!DOCTYPE html>
-
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>Des licornes aperçues en train de danser dans les rues de Paris!!</title> 
-		<link rel="stylesheet" href="style.css">
-	</head>
-
-	<body>
-		<div id="site">
-
-			<img src="Screenshot 2023-05-06 at 18.34.17.png">
-
-
-			<h2>Qu'en pensent alors les experts? D'où viennent ces créatures? </h2>
-			<ul>
-			<li> <br> Les experts sont perplexes quant à la provenance de ces licornes. Certains pensent qu'il s'agit d'une nouvelle espèce jamais découverte auparavant, tandis que d'autres croient qu'elles viennent d'une autre dimension. Des experts en mythologie ont suggéré que les licornes pourraient être des êtres magiques venant d'un monde parallèle, tandis que d'autres ont évoqué des expériences génétiques secrètes menées par des scientifiques fous. Quoi qu'il en soit, l'énigme des licornes continue de fasciner et d'effrayer les habitants de Paris. <br>
-			<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp-wif4YCpiZC-FcHp6GDID6OLYHe2V9jH5A&usqp=CAU"></li>
-
-			<li> <br> En attendant que la vérité soit révélée, les rues de Paris continuent d'être le théâtre de l'incroyable spectacle des licornes. Les touristes affluent peu à peu de partout dans le monde pour assister à cet événement unique en son genre, tandis que les habitants se demandent si cela ne serait pas le début d'une nouvelle ère fantastique pour la ville de l'amour. <br>
-
-			<h2>Mais que savons nous sur les licornes?</h2>
-		<p>Les licornes sont des créatures qui ont une place importante dans la culture populaire. Mais que savons-nous réellement sur elles?</p>
-			<p>Depuis l'apparition des licornes dans la ville de Paris, des chercheurs en mythologie ont été particulièrement sollicités. Éva Nouie, mythologue spécialiste en créatures antiques nous explique l'origine des licornes dans cette interview :</p>
-
-			<br>
-		<B><p>"Bonjour Madame Nouie, merci de prendre de votre temps pour répondre à nos questions sur ces licornes".</p></B>
-
-		<p>"Tout le plaisir est pour moi."</p>
-
-		<B><p>"Que savons nous des licornes aujourd'hui?"</p></B>
-
-		<p>"Lorsqu'on parle de licorne on pense à l'image que nos sociétés ont créée. C'est-à-dire un animal semblable à un cheval avec une corne magique et curative, qui est associée à l'élégance et la beauté. Mais, chaque culture a une représentation différente des licornes. Par exemple, elle peut être décrite comme ayant une apparence plus proche de celle d'une chèvre, d'un rhinocéros ou d'un cerf. Elle est aussi associée à différents symboles. Par exemple, dans la mythologie grecque à la chasse et à la déesse Artémis alors que, dans la mythologie chrétienne, elles étaient considérées comme des symboles du Christ et de pureté. Mais en réalité cette créature a bien plus d'histoire que ce que nous pensons."</p>
-
-		<B><p>"Expliquez-nous."</p></B>
-
-		<p>"Caché derrière les interprétations mythologiques et les clichés modernes se trouve un véritable animal qui a existé pendant l’ère glaciaire, contemporain des premiers humains, la licorne de Sibérie qui est en réalité une sorte de gigantesque Rhinocéros qui ne présente aucune magie. De nombreuses études ont été menées pour l'analyser"</p>
-
-		<br><img src="https://static.nationalgeographic.fr/files/styles/image_3200/public/QACTU_IMG_ZOOM_2035.webp?w=315&h=237">
-		<br><B><p>"L'image magique est donc fausse?"</p></B>
-
-		<p>"Alors fausse, on l'ignore car chacun à sa propre interprétation, mais c'est sur que nous avons une image peu réaliste de ce qu'est une licorne"</p>
-
-		<B><p>"Donc selon vous, les licornes aperçues dans Paris ne sont pas réelles?"</p></B>
-
-		<p>"Des études sont en cours, pour l'instant toutes les théories sont possibles. Les créatures observées ressemblent beaucoup à des chevaux, alors on ignore s'il s'agit d'un déguisement artistique ou de vraies licornes."</p>
-
-		<B><p>"Certains ont même dit qu'il s'agissait de croisements entre chevaux et rhinocéros. Qu'en pensez-vous?"</p></B>
-		<p>"Pour l'instant, beaucoup spéculent, mais ces apparitions sont encore trop récentes pour affirmer quelque chose. Mais finalement, c'est ce que je trouve fascinant chez ces êtres car nous en connaissons si peu sur eux."</p>
-
-		<B><p>"Effectivement les interrogations sur cette espèce ne s'arrêteront jamais. Merci d'avoir répondu à nos questions Eva."</p></B>
-
-<br><a href="https://www.gipsytoys.com/fr/595-licorne-lica-bella-feerique-musicale-et-lumineuse-35-cm.html"><img src="Screenshot 2023-05-06 at 20.26.15.png"></a>
-
- 	<img src="Screenshot 2023-05-06 at 19.58.05.png">
-
-		</ul>
 
 
 
