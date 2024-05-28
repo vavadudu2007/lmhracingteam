@@ -182,6 +182,74 @@
 
 
 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="login-form">
+        <h2>Login</h2>
+        <form id="formLogin">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required>
+            <br>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+            <br>
+            <button type="Connexion">Login</button>
+        </form>
+        <p id="errorMessage" style="color:red;"></p>
+    </div>
+
+    <script>
+        document.getElementById('formLogin').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var username = document.getElementById('username').value;
+            var password = document.getElementById('password').value;
+            if(username === 'administrateur' && password === 'vivelev12atmo') {
+                sessionStorage.setItem('authenticated', 'true');
+                window.location.href = 'secret.html';
+            } else {
+                document.getElementById('errorMessage').textContent = 'Mot de passe ou identifiant invalide !';
+            }
+        });
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Secret Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="secret-content">
+        <h1>Bienvenue sur la page secrete!</h1>
+        <p>Vous devez vous connecter pour acceder a cette page</p>
+    </div>
+
+    <script>
+        if (sessionStorage.getItem('authenticated') !== 'true') {
+            window.location.href = 'login.html';
+        }
+    </script>
+</body>
+</html>
+
 
 
 
