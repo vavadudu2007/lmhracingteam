@@ -1,87 +1,24 @@
- <!DOCTYPE html>
-
-<html>
-	<head>
-		<meta charset="utf-8">
-		<title>LMD Racing Team</title> 
-		<link rel="stylesheet" href="style.css">
-
-	</head>
-
-	<body>
-		<div id="site">
-
-<img src="IMGVALKYRIELEMANS">
-
-  		 <br>
-
-		<h1>LMD Racing Team</h1>
-
-		<p>LMD Racing Team vient de signer un double aux 24 Heures du Mans avec la voiture n°8 victorieuse pilotée par le trio composé de Charles Leclerc, Sebastien Bourdais et Vadim Dupouy et la voiture n°7, 2eme, ayant perdu du temps a cause de débris accumulés sur les radiateurs</p> 
-
-		<a href="site2.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG5_Ao8A_T-9TA_qHBU_HLO_HBeJXdY2y4LVj8ymLOY3P1i0xxylvvqOuj2YdE4fxP7Js&usqp=CAU"></a>
-		
-		 <br>
-		<p>Ayant pris le départ en deuxième ligne à cause d'un incident mineur durant l'hyperpole, la voiture n°8 a évité les pièges de la course et pris la tete lors de la pluie grace au pilotage exceptionel de Dupouy </p>
-
-		La voiture n°7 a remporté l'Hyperpole grace au fin pilotage Stéphane Sarrazin mais a subi, alors qu'il restait 2 heures de course des débris accumulés dans ses radiateurs causant un long arret supplementaire <br>
-
-		<img src="https://i.pinimg.com/736x/f3/c4/72/f3c4721f2118b98d75f7e4cf2cd85a98.jpg">
-
-		<br>
-
-		<a href="site3.html"><h2> .......... </h2></a>
- 
-        <a href="site4.html"><h2> </h2></a>
-
-            
-        <a href="site5.html"><h2> La 712 LMH, une bete de course </h2> </a>
-
-		
- 		<a href="site6.html"><h2>Aérodynamisme</h2></a>
-
-
- 	<a href="https://s3-eu-west-1.amazonaws.com/fetchcfd/original/file-1663271765766.jpg"></a>
-
-
- 	<img src="..............">
-
-	</body>
-
- </html>
-
-
-
-
-
-
-
-
-
-
 <!DOCTYPE html>
-
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>Des licornes aperçues en train de danser dans les rues de Paris!!</title> 
-		<link rel="stylesheet" href="style.css">
-	</head>
-
-	<body>
-
-		<div id="site">
-
-			<img src="Screenshot 2023-05-06 at 18.34.17.png">
-
-			<a href="https://youtu.be/PbkXcz-q7FI"><h1> SI TU PENSES QUE LES LICORNES N'EXISTENT PAS, REGARDE DE TES PROPRES YEUX</h1></a>
-
-	<h3> Dans Paris, qu'est-ce qui a une corne mais qui ne klaxonne pas? Une licorne ! </h3>
-
-   <img src="data:image/jpeg;base64,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">
-
+<head>
+    <meta charset="utf-8">
+    <title>LMD Racing Team</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="site">
+        <img src="path/to/your/image.jpg" alt="Valkyrie Le Mans">
+        <h1>LMD Racing Team</h1>
+        <p>LMD Racing Team vient de signer un double aux 24 Heures du Mans avec la voiture n°8 victorieuse pilotée par le trio composé de Charles Leclerc, Sebastien Bourdais et Vadim Dupouy et la voiture n°7, 2eme, ayant perdu du temps à cause de débris accumulés sur les radiateurs.</p>
+        <a href="site2.html">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG5_Ao8A_T-9TA_qHBU_HLO_HBeJXdY2y4LVj8ymLOY3P1i0xxylvvqOuj2YdE4fxP7Js&usqp=CAU" alt="Image">
+        </a>
+        <p>Ayant pris le départ en deuxième ligne à cause d'un incident mineur durant l'hyperpole, la voiture n°8 a évité les pièges de la course et pris la tête lors de la pluie grâce au pilotage exceptionnel de Dupouy.</p>
+        <p>La voiture n°7 a remporté l'Hyperpole grâce au fin pilotage de Stéphane Sarrazin mais a subi, alors qu'il restait 2 heures de course, des débris accumulés dans ses radiateurs causant un long arrêt supplémentaire.</p>
+        <img src="https://i.pinimg.com/736x/f3/c4/72/f3c4721f2118b98d75f7e4cf2cd85a98.jpg" alt="Image de course">
+        <br>
+    </div>
 </body>
-
 </html>
 
 
@@ -99,7 +36,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Des licornes aperçues en train de danser dans les rues de Paris!!</title> 
+		<title>712LMH</title> 
 		<link rel="stylesheet" href="style.css">
 	</head>
 
@@ -107,32 +44,22 @@
 
 		<div id="site">
 
-		<img src="Screenshot 2023-05-06 at 18.34.17.png">
+		<img src="https://www.lemans.org/media/cache/api_news_large/assets/fileuploads/57/4e/574edd9b83012.jpeg">
 
 
-        <h2>Qu'en pense la population?</h2>
-        <p>Les réactions ont été mitigées, certains se demandant si c'était une performance artistique organisée, tandis que d'autres ont vu les licornes comme un signe de magie et de merveille dans la ville. Larry Covert, notre envoyé spécial a recueilli l'avis de différents parisiens : 
+        <h2> La 712LMH, une bete de course </h2>
+        <p> Ce prototype est concu uniquement pour la vitesse et son développement a principalement été axé pour etre le plus performant possible sur le circuit de la Sarthe
         </p><br>
 			<ul>
-			<li>"J'adore les licornes! J'en veux une comme animal de compagnie." 
-				<p>-Léa, 8 ans</p> <br>
-			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlPLPfYMpioewPLUp32pP8hr_gDZabw0y5dylmoKEaTBh_AlFJbwSigKwWujrrVl23ICQ&usqp=CAU"> <br></li>
+			<li>Aérodynamisme 
+			<img src="https://s3-eu-west-1.amazonaws.com/fetchcfd/original/file-1663271765766.jpg"> <br></li>
 
-			<br><li>"Elles sont dangereuses et vont nous envahir!!"
-				<p>-Gertrude 99 ans</p> <br>
-			<img src="data:image/jpeg;base64,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"></li><br>
+			<br><li>Moteur
+			<img src="https://www.turbo.fr/sites/default/files/2020-04/aston-martin-valkyrie-s-cosworth-v12-engine.jpg"></li><br>
 						
-			<br><li><p>"Nous avons tous un ancêtre commun, nous sommes tous des licornes à la fin"</p> 
-				<p>-Ernest, manifestant qui veut promouvoir l'égalité, la liberté et mettre en place des droits pour ces licornes, 37 ans </p> 
-			<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTXe_mcGfbeI1TcumNO10qsdXqhO8GM6zIdw&usqp=CAU"> <br></li> 
+			<br><li><p>Chassis</p> 
+			<br><img src="https://www.racecar-engineering.com/wp-content/uploads/2015/11/upR18.jpg"> <br></li> 
 
-<br>
- 		
-				<a href="https://www.amazon.fr/"><img src="Screenshot 2023-05-06 at 20.10.35.png"></a> <br>
-
-				<br>
- 	<img src="Screenshot 2023-05-06 at 19.58.05.png">
-  
 </body>
 </html>
 
@@ -153,7 +80,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Des licornes aperçues en train de danser dans les rues de Paris!!</title> 
+		<title>L'équipe</title> 
 		<link rel="stylesheet" href="style.css">
 	</head>
 
@@ -161,21 +88,17 @@
 
 		<div id="site">
 
-			<img src="Screenshot 2023-05-06 at 18.34.17.png">
+			<img src="https://www.lemans.org/assets/fileuploads/59/46/59468a14b2b40.jpg">
 
-			<h2>Qu'en pensent les autorités? </h2>
+			<h2>Interview de l'équipe</h2>
 
                         <ul>	
-			<li>"Il faut sauver nos licornes, elles font parties de nos sociétés depuis l'Antiquité"" <p>-Emmanuel Macron, Président de La République </p> <br>
-			<img src="https://www.worldtvdesinfo.com/wp-content/uploads/2017/06/macron-licorne-678x381.png"> <br> </li>
+			<li>"Une incroyable victoire, la course a fait penser aux duels Audi Peugeot dans les années 2000!!!" <p>-Vadim Dupouy, pilote de la voiture n°8 </p> <br>
+			<img src="https://i.ytimg.com/vi/nAoVVvs8e08/hqdefault.jpg"> <br> </li>
 
-			<br> <li>"Elles vont envahir et détruire nos villes, elles n'ont rien à faire dans la capitale" <p>-Laurent Nuñez, Préfet de police de Paris</p> <br>
-			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmncoCemluNd2JoSUl3d9x48JorTYzXYXcTQ&usqp=CAU"></li>
-
-			<br> <li><p>Les autorités lancent cependant une enquête pour tenter de déterminer d'où viennent les mystérieuses créatures et expliquer comment elles ont pu se retrouver dans la ville lumière.</p><br>
-			<img src="data:image/jpeg;base64,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"><br>
-			<br>
-			<br><img src="Screenshot 2023-05-06 at 19.58.05.png">
+			<br> <li>"La voiture était parfaite, le compromis entre appui et trainée ainsi que ce superbe moteur la rendent particulièrement compétitive  ! " <p>-Adrian Newey, directeur technique specialisé dans le département aéro</p> <br>
+			<img src="https://sportal.fr/wp-content/uploads/2024/03/adrian-newey_12626731190x786.jpg"></li>
+                        <img src="https://www.ultimatecarpage.com/images/mediums/23615.jpg"></li>
 		</ul>
 
 
