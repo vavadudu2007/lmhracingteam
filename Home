@@ -31,10 +31,10 @@
     <section id="gallery">
         <h2>Galerie</h2>
         <div class="gallery">
-            <img src="voiture1.jpg" alt="712 LMH">
-            <img src="voiture2.jpg" alt="712 Barquette">
-            <img src="voiture3.jpg" alt="712 Spyder">
-            <img src="voiture4.jpg" alt="712 LMXX">
+            <img src="https://www.lemans.org/media/cache/api_news_large/assets/fileuploads/5d/03/5d0372e406d00.jpg" alt="712 LMH">
+            <img src="https://www.challenges.fr/assets/img/2018/09/19/cover-r4x3w1200-5ba262f4adbfc-180958-car-monza-sp1-jpg.jpg" alt="712 Barquette">
+            <img src="https://citynews-modenatoday.stgy.ovh/~media/original-hi/46700119061583/19887-maseratimc20cielospydermakesnorthamericandebutincalifornia.jpg" alt="712 Spyder">
+            <img src="https://cdn-8.motorsport.com/static/img/mgl/400000/440000/444000/444800/444838/s300/lemans-peugeot-908-hdi-fap-launch-2007-pedro-lamy-tests-the-peugeot-908-hdi-fap.jpg" alt="712 LMXX">
         </div>
     </section>
 
