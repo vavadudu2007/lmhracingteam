@@ -1,0 +1,23 @@
+h1 { 
+    color: black;
+}
+
+body { 
+    background-color: red; /* Use a valid color name or hex code */
+}
+
+#site { 
+    width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+}
+
+ul li { 
+    list-style-type: none;
+}
+
+h2 { 
+    color: black;
+}
