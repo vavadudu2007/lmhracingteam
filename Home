@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Voitures de Course</title>
+    <title>LMD Racing Team</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -19,27 +19,27 @@
     </header>
 
     <section id="home">
-        <h1>Bienvenue sur notre site de voitures de course</h1>
-        <p>Découvrez les dernières nouveautés et les modèles les plus rapides.</p>
+        <h1>Au plus haut niveau de la beauté et de la performance</h1>
+        <p>Nos modèles</p>
     </section>
 
     <section id="about">
         <h2>À propos</h2>
-        <p>Nous sommes passionnés par les voitures de course et partageons les dernières informations et tendances du monde des courses automobiles.</p>
+        <p>LMD Racing Team est une équipe qui a pour but de développer des technologies: aérodynamisme, moteur, chassis</p>
     </section>
 
     <section id="gallery">
         <h2>Galerie</h2>
         <div class="gallery">
-            <img src="voiture1.jpg" alt="Voiture de course 1">
-            <img src="voiture2.jpg" alt="Voiture de course 2">
-            <img src="voiture3.jpg" alt="Voiture de course 3">
-            <img src="voiture4.jpg" alt="Voiture de course 4">
+            <img src="voiture1.jpg" alt="712 LMH">
+            <img src="voiture2.jpg" alt="712 Barquette">
+            <img src="voiture3.jpg" alt="712 Spyder">
+            <img src="voiture4.jpg" alt="712 LMXX">
         </div>
     </section>
 
     <footer>
-        <p>&copy; 2024 Voitures de Course. Tous droits réservés.</p>
+        <p>&copy; 2024 LMD</p>
     </footer>
 </body>
 </html>
